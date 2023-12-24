@@ -18,6 +18,8 @@ Screenshots of the configuration of the database subnet groups as well as route 
 
 ![primaryDB_config](/screenshots/primaryDB_config.png)
 
+![primaryDB_config](/screenshots/primaryDB_config_backups_enabled.png)
+
 ![secondaryDB_config](/screenshots/secondaryDB_config.png)
 
 ![primaryDB_subnetgroup](/screenshots/primaryDB_subnetgroup.png)
@@ -53,6 +55,8 @@ Screenshots of the DB Connections and the database replication configuration. Na
 ![monitoring_connections](/screenshots/monitoring_connections.png)
 
 ![monitoring_replication](/screenshots/monitoring_replication.png)
+
+![monitoring_replication](/screenshots/monitoring_replication_config.png)
 
 
 ### Part 2
